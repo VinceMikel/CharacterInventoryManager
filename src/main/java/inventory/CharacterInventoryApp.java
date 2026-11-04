@@ -2,7 +2,13 @@ package inventory;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+/*
+Vince Mikel Masong
+Ram ID: R02102624
 
+I certify that this submission is my
+own individual work with the assistance of ChatGPT
+ */
 
 public class CharacterInventoryApp {
     private static final CustomHashMap<CharacterProfile, ArrayList<InventoryItem>> CHARACTERS =

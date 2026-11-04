@@ -3,6 +3,15 @@ package inventory;
 import java.util.Locale;
 import java.util.Objects;
 
+/*
+Vince Mikel Masong
+Ram ID: R02102624
+
+I certify that this submission is my
+own individual work with the assistance of ChatGPT
+ */
+
+
 /** Custom value object describing one item in a character's inventory. */
 public final class InventoryItem {
     private final String itemId;

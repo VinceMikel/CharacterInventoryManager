@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Objects;
+/*
+Vince Mikel Masong
+Ram ID: R02102624
+
+I certify that this submission is my
+own individual work with the assistance of ChatGPT
+ */
 
 /**
  * Generic hash map using separate chaining. It does not use Java's built-in

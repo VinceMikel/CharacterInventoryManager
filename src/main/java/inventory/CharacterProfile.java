@@ -3,7 +3,13 @@ package inventory;
 import java.util.Locale;
 import java.util.Objects;
 
+/*
+Vince Mikel Masong
+Ram ID: R02102624
 
+I certify that this submission is my
+own individual work with the assistance of ChatGPT
+ */
 public final class CharacterProfile {
     private final String characterId;
     private final String characterName;
